@@ -48,6 +48,10 @@ public class AddingMultipleProds {
 					break;
 				}
 
+				System.out.println("Check this out");
+				System.out.println("Check this out");
+				System.out.println("Check this out");
+				System.out.println("Check this out");
 			}
 
 		}
